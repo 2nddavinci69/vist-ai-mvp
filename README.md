@@ -24,7 +24,7 @@ Clone the repository and run the core forensic evaluation script:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/2nddavinci69/vist-ai-mvp.git](https://github.com/2nddavinci69/vist-ai-mvp.git)
+git clone https://github.com/2nddavinci69/vist-ai-mvp.git](https://github.com/2nddavinci69/vist-ai-mvp.git
 
 # Navigate to the project directory
 cd vist-ai-mvp
